@@ -9,10 +9,10 @@ This application is a simple chatbot interface built using Streamlit, designed t
 - **Clear Chat History**: Users can clear the chat history with a simple button click.
 
 ## Requirements
-Python 3.7 or higher
-Streamlit
-Groq SDK
-python-dotenv for managing environment variables
+- Python 3.7 or higher
+- Streamlit
+- Groq SDK
+- python-dotenv (for managing environment variables)
 
 ## Installation
 
