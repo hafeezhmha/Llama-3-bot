@@ -4,9 +4,9 @@ This application is a simple chatbot interface built using Streamlit, designed t
 ## Features
 - **Interactive Chat Interface**: Users can communicate with the chatbot in a clean, easy-to-navigate interface.
 - **Dynamic Response Generation**: The chatbot generates responses using the LLaMA 3 model, simulating a typing effect to enhance realism.
--**Session Management**: The app retains chat history throughout the session, allowing users to view previous messages.
--**Configuration Options**: Users can input their Groq API key to enable the chatbot functionality.
--**Clear Chat History**: Users can clear the chat history with a simple button click.
+- **Session Management**: The app retains chat history throughout the session, allowing users to view previous messages.
+- **Configuration Options**: Users can input their Groq API key to enable the chatbot functionality.
+- **Clear Chat History**: Users can clear the chat history with a simple button click.
 
 ## Requirements
 Python 3.7 or higher
