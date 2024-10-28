@@ -1,4 +1,4 @@
-# llama3-bot
+# 🦙 Llama-3-bot 
 This application is a simple chatbot interface built using Streamlit, designed to interact with users using the LLaMA 3 language model. The chatbot is capable of processing user inputs and generating responses, creating a conversational experience.
 
 ## Features
@@ -14,3 +14,16 @@ Streamlit
 Groq SDK
 python-dotenv for managing environment variables
 
+## Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/hafeezhmha/Llama3-bot.git
+   cd llama3-chatbot
+2. **Install the required packages** :
+   ```bash
+   pip install requirements.txt
+3. **Obtain your API key and paste it in the application**.
+4. **To run the application, navigate to the project directory and execute**:
+   ```bash
+   streamlit run app.py
